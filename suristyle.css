@@ -1,0 +1,51 @@
+.barran{
+    background-color: #e83e8c;
+}
+
+.navbar-brand{
+    color: #fff;
+    
+}
+
+h1 {
+    text-align: center;
+    color: #707070;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    font-size: 60px;
+    font-weight:600
+}
+
+
+.foot1{
+    background-color: #17A2B8;
+    color: #fff;
+    text-align:center;
+    font-size: 40px;
+    height: 170px;
+    padding-left: 30px;
+    padding-top: 40px;
+    padding-right: 30px;
+}
+
+.foot2{
+    background-color: #e83e8c;
+    text-align: center;
+    height: 184px;
+}
+
+.logf{
+    padding-top: 40px;
+
+}
+
+.kitchenc{
+    padding-left: 90px;
+    margin-top: 40px;
+    padding-right: 90px;
+}
+
+.container{
+    font-family: 'Open Sans', sans-serif;
+}
+
